@@ -3,36 +3,34 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: 이용환
+title: Junior Software Engineer
+email: developer.yhl@gmail.com
+website: developeryhl.tistory.com
+#phone: Your phone number (optional)
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+github_username:  https://github.com/developerYHL
+youtube_username: https://www.youtube.com/channel/UCC_Ay9EQIu6l4xCxJWg_DhQ/videos?view=0&sort=dd&shelf_id=0&view_as=subscriber
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+about_profile_image: images/profile.jpg
+about_content: | 
+  ## **"호기심 가득한 사람"**
+  {: .text-center }
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  호기심으로 시작한 프로그래밍이 어느새 대외활동과 동아리 활동 등 저를 이끌어 갔고, 많은 호기심 덕분에 습득력도 좋아 배움의 길을 걷고자 합니다. 절대 포기하지 않고 스스로 문제를 해결할 줄 아는 신입 개발자가 되겠습니다.  
+    
+
+    
+  ## **SKILLS**
+  {: .text-center }
+
+  <mark>C</mark> <mark>C++</mark> <mark>C#</mark> <mark>Java</mark>  
+  <mark>HTML</mark> <mark>CSS</mark> <mark>JAVASCRIPT</mark> <mark>PHP</mark>  
+  <mark>Unity</mark> <mark>App</mark> <mark>DApp</mark>
+
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -45,10 +43,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true

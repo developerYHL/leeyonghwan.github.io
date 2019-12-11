@@ -1,18 +1,13 @@
 ---
-layout: page
 title: About
+layout: page
 description: Some description.
-permalink: /about/
+permalink: "/about/"
 menu: true
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile.jpg" alt="Thiago Rossener" width="250">
 
 # About
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## 호기심 가득한 사람
+호기심으로 시작한 프로그래밍이 어느새 대외활동과 동아리 활동 등 저를 이끌어 갔고, 많은 호기심 덕분에 습득력도 좋아 배움의 길을 걷고자 합니다. 절대 포기하지 않고 스스로 문제를 해결할 줄 아는 신입 개발자가 되겠습니다.

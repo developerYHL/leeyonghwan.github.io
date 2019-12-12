@@ -219,7 +219,7 @@ collections:
             hint: "Leave it blank if you don't want a contact page"
             required: false
           - label: "Disqus Username"
-            name: "disqus_username"
+            name: "developeryhl"
             widget: "string"
             hint: "Leave it blank if you don't want comments"
             required: false

@@ -1,20 +1,20 @@
 <ul>
-  <li style="display: inline-block; padding: 20px;">
+  <li>
     <a href="{{ site.url }}{{site.baseurl}}/">Home</a>
   </li>
   {% for page in site.pages %}
   {% if page.menu %}
-  <li style="display: inline-block; padding: 20px;">
+  <li>
     <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
   </li>
   {% endif %}
   {% endfor %}
   {% if site.email %}
-  <li style="display: inline-block; padding: 20px;">
+  <li>
     <a href="{{ site.url }}{{site.baseurl}}/contact/">Contact</a>
   </li>
   {% endif %}
-  <li style="display: inline-block; padding: 20px;">
+  <li>
     <a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.xml" title="Atom/RSS feed">Feed</a>
   </li>
 </ul>
